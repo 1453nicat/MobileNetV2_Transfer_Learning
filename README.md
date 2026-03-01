@@ -1,6 +1,6 @@
 # MobileNetV2_Transfer_Learning - Birds vs. Insects Image Classifier
 
-First of all, this project implements a custom image classifier using transfer learning with the MobileNetV2 pre-trained model to distinguish between images of birds (sourced from the Tiny Bird Species Dataset) and insects (supplemented from public datasets). Developed using TensorFlow and Keras, the solution incorporates data augmentation, fine-tuning, and comprehensive evaluation metrics. The project was executed on Google Colab, leveraging GPU support, and completed on July 15, 2025, at 04:44 PM +04.
+First of all, this project implements a custom image classifier using transfer learning with the MobileNetV2 pre-trained model to distinguish between images of birds (sourced from the Tiny Bird Species Dataset) and insects (supplemented from public datasets). Developed using TensorFlow and Keras, the solution incorporates data augmentation, fine-tuning, and comprehensive evaluation metrics.
 
 # Objectives
 - Build a binary image classifier for birds vs. insects using a small custom dataset.
